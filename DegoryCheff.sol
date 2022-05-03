@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at FtmScan.com on 2021-11-13
-*/
-
 // SPDX-License-Identifier: None
 pragma solidity 0.6.12;
 
